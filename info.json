@@ -1,10 +1,6 @@
-"bin": {
-    "phd": "./index.js"
-  },
-
-  {
-    "name": "Phat Doan",
-    "linkedin": "https://www.linkedin.com/pistolphat",
-    "github": "pistolphat.github.io",
-    "email": "phatdoan@yahoo.com",
+{
+  "name": "Phat Doan",
+  "linkedin": "https://www.linkedin.com/pistolphat",
+  "github": "pistolphat.github.io",
+  "email": "phatdoan@yahoo.com"
 }

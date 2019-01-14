@@ -1,1 +1,1 @@
-Short resume description of myself and contact.
+Description of my name and contact information.
